@@ -107,6 +107,7 @@ namespace ESRB_category_form
             // 
             // cboAlcohol
             // 
+            this.cboAlcohol.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboAlcohol.FormattingEnabled = true;
             this.cboAlcohol.Location = new System.Drawing.Point(160, 29);
             this.cboAlcohol.Name = "cboAlcohol";
@@ -124,6 +125,7 @@ namespace ESRB_category_form
             // 
             // cboABlood
             // 
+            this.cboABlood.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboABlood.FormattingEnabled = true;
             this.cboABlood.Location = new System.Drawing.Point(160, 89);
             this.cboABlood.Name = "cboABlood";
@@ -141,6 +143,7 @@ namespace ESRB_category_form
             // 
             // cboBnG
             // 
+            this.cboBnG.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboBnG.FormattingEnabled = true;
             this.cboBnG.Location = new System.Drawing.Point(160, 208);
             this.cboBnG.Name = "cboBnG";
@@ -158,6 +161,7 @@ namespace ESRB_category_form
             // 
             // cboCartoon
             // 
+            this.cboCartoon.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboCartoon.FormattingEnabled = true;
             this.cboCartoon.Location = new System.Drawing.Point(160, 259);
             this.cboCartoon.Name = "cboCartoon";
@@ -175,6 +179,7 @@ namespace ESRB_category_form
             // 
             // cboCrudeHumor
             // 
+            this.cboCrudeHumor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboCrudeHumor.FormattingEnabled = true;
             this.cboCrudeHumor.Location = new System.Drawing.Point(160, 316);
             this.cboCrudeHumor.Name = "cboCrudeHumor";
@@ -192,6 +197,7 @@ namespace ESRB_category_form
             // 
             // cboDrug
             // 
+            this.cboDrug.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboDrug.FormattingEnabled = true;
             this.cboDrug.Location = new System.Drawing.Point(160, 369);
             this.cboDrug.Name = "cboDrug";
@@ -209,6 +215,7 @@ namespace ESRB_category_form
             // 
             // cboFantasyViolence
             // 
+            this.cboFantasyViolence.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboFantasyViolence.FormattingEnabled = true;
             this.cboFantasyViolence.Location = new System.Drawing.Point(160, 413);
             this.cboFantasyViolence.Name = "cboFantasyViolence";
@@ -226,6 +233,7 @@ namespace ESRB_category_form
             // 
             // cboIntenseViolence
             // 
+            this.cboIntenseViolence.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboIntenseViolence.FormattingEnabled = true;
             this.cboIntenseViolence.Location = new System.Drawing.Point(160, 462);
             this.cboIntenseViolence.Name = "cboIntenseViolence";
@@ -243,6 +251,7 @@ namespace ESRB_category_form
             // 
             // cboLanguage
             // 
+            this.cboLanguage.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboLanguage.FormattingEnabled = true;
             this.cboLanguage.Location = new System.Drawing.Point(160, 511);
             this.cboLanguage.Name = "cboLanguage";
@@ -260,6 +269,7 @@ namespace ESRB_category_form
             // 
             // cboLyrics
             // 
+            this.cboLyrics.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboLyrics.FormattingEnabled = true;
             this.cboLyrics.Location = new System.Drawing.Point(160, 556);
             this.cboLyrics.Name = "cboLyrics";
@@ -277,6 +287,7 @@ namespace ESRB_category_form
             // 
             // cboMatureHumor
             // 
+            this.cboMatureHumor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboMatureHumor.FormattingEnabled = true;
             this.cboMatureHumor.Location = new System.Drawing.Point(432, 24);
             this.cboMatureHumor.Name = "cboMatureHumor";
@@ -294,6 +305,7 @@ namespace ESRB_category_form
             // 
             // cboBlood
             // 
+            this.cboBlood.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboBlood.FormattingEnabled = true;
             this.cboBlood.Location = new System.Drawing.Point(160, 148);
             this.cboBlood.Name = "cboBlood";
@@ -311,6 +323,7 @@ namespace ESRB_category_form
             // 
             // cboSexualThemes
             // 
+            this.cboSexualThemes.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboSexualThemes.FormattingEnabled = true;
             this.cboSexualThemes.Location = new System.Drawing.Point(736, 24);
             this.cboSexualThemes.Name = "cboSexualThemes";
@@ -328,6 +341,7 @@ namespace ESRB_category_form
             // 
             // cboMildBlood
             // 
+            this.cboMildBlood.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboMildBlood.FormattingEnabled = true;
             this.cboMildBlood.Location = new System.Drawing.Point(432, 64);
             this.cboMildBlood.Name = "cboMildBlood";
@@ -345,6 +359,7 @@ namespace ESRB_category_form
             // 
             // cboMildCV
             // 
+            this.cboMildCV.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboMildCV.FormattingEnabled = true;
             this.cboMildCV.Location = new System.Drawing.Point(432, 113);
             this.cboMildCV.Name = "cboMildCV";
@@ -362,6 +377,7 @@ namespace ESRB_category_form
             // 
             // cboMildFV
             // 
+            this.cboMildFV.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboMildFV.FormattingEnabled = true;
             this.cboMildFV.Location = new System.Drawing.Point(432, 163);
             this.cboMildFV.Name = "cboMildFV";
@@ -379,6 +395,7 @@ namespace ESRB_category_form
             // 
             // cboMildLanguage
             // 
+            this.cboMildLanguage.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboMildLanguage.FormattingEnabled = true;
             this.cboMildLanguage.Location = new System.Drawing.Point(432, 208);
             this.cboMildLanguage.Name = "cboMildLanguage";
@@ -396,6 +413,7 @@ namespace ESRB_category_form
             // 
             // cboMildLyrics
             // 
+            this.cboMildLyrics.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboMildLyrics.FormattingEnabled = true;
             this.cboMildLyrics.Location = new System.Drawing.Point(432, 254);
             this.cboMildLyrics.Name = "cboMildLyrics";
@@ -413,6 +431,7 @@ namespace ESRB_category_form
             // 
             // cboMildST
             // 
+            this.cboMildST.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboMildST.FormattingEnabled = true;
             this.cboMildST.Location = new System.Drawing.Point(432, 304);
             this.cboMildST.Name = "cboMildST";
@@ -430,6 +449,7 @@ namespace ESRB_category_form
             // 
             // cboMildViolence
             // 
+            this.cboMildViolence.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboMildViolence.FormattingEnabled = true;
             this.cboMildViolence.Location = new System.Drawing.Point(432, 364);
             this.cboMildViolence.Name = "cboMildViolence";
@@ -447,6 +467,7 @@ namespace ESRB_category_form
             // 
             // cboNoDescriptors
             // 
+            this.cboNoDescriptors.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboNoDescriptors.FormattingEnabled = true;
             this.cboNoDescriptors.Location = new System.Drawing.Point(432, 416);
             this.cboNoDescriptors.Name = "cboNoDescriptors";
@@ -464,8 +485,9 @@ namespace ESRB_category_form
             // 
             // cboNudity
             // 
+            this.cboNudity.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboNudity.FormattingEnabled = true;
-            this.cboNudity.Location = new System.Drawing.Point(432, 457);
+            this.cboNudity.Location = new System.Drawing.Point(432, 467);
             this.cboNudity.Name = "cboNudity";
             this.cboNudity.Size = new System.Drawing.Size(69, 28);
             this.cboNudity.TabIndex = 0;
@@ -481,8 +503,9 @@ namespace ESRB_category_form
             // 
             // cboPartialNudity
             // 
+            this.cboPartialNudity.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboPartialNudity.FormattingEnabled = true;
-            this.cboPartialNudity.Location = new System.Drawing.Point(432, 497);
+            this.cboPartialNudity.Location = new System.Drawing.Point(432, 511);
             this.cboPartialNudity.Name = "cboPartialNudity";
             this.cboPartialNudity.Size = new System.Drawing.Size(69, 28);
             this.cboPartialNudity.TabIndex = 0;
@@ -498,8 +521,9 @@ namespace ESRB_category_form
             // 
             // cboSexualContent
             // 
+            this.cboSexualContent.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboSexualContent.FormattingEnabled = true;
-            this.cboSexualContent.Location = new System.Drawing.Point(432, 548);
+            this.cboSexualContent.Location = new System.Drawing.Point(432, 559);
             this.cboSexualContent.Name = "cboSexualContent";
             this.cboSexualContent.Size = new System.Drawing.Size(69, 28);
             this.cboSexualContent.TabIndex = 0;
@@ -515,6 +539,7 @@ namespace ESRB_category_form
             // 
             // cboSimulatedGambling
             // 
+            this.cboSimulatedGambling.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboSimulatedGambling.FormattingEnabled = true;
             this.cboSimulatedGambling.Location = new System.Drawing.Point(736, 72);
             this.cboSimulatedGambling.Name = "cboSimulatedGambling";
@@ -532,6 +557,7 @@ namespace ESRB_category_form
             // 
             // cboStrongLanguage
             // 
+            this.cboStrongLanguage.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboStrongLanguage.FormattingEnabled = true;
             this.cboStrongLanguage.Location = new System.Drawing.Point(736, 127);
             this.cboStrongLanguage.Name = "cboStrongLanguage";
@@ -549,6 +575,7 @@ namespace ESRB_category_form
             // 
             // cboSSC
             // 
+            this.cboSSC.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboSSC.FormattingEnabled = true;
             this.cboSSC.Location = new System.Drawing.Point(736, 186);
             this.cboSSC.Name = "cboSSC";
@@ -566,6 +593,7 @@ namespace ESRB_category_form
             // 
             // cboSuggestiveThemes
             // 
+            this.cboSuggestiveThemes.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboSuggestiveThemes.FormattingEnabled = true;
             this.cboSuggestiveThemes.Location = new System.Drawing.Point(736, 254);
             this.cboSuggestiveThemes.Name = "cboSuggestiveThemes";
@@ -583,6 +611,7 @@ namespace ESRB_category_form
             // 
             // cboUOA
             // 
+            this.cboUOA.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboUOA.FormattingEnabled = true;
             this.cboUOA.Location = new System.Drawing.Point(736, 304);
             this.cboUOA.Name = "cboUOA";
@@ -600,6 +629,7 @@ namespace ESRB_category_form
             // 
             // cboUDA
             // 
+            this.cboUDA.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboUDA.FormattingEnabled = true;
             this.cboUDA.Location = new System.Drawing.Point(736, 369);
             this.cboUDA.Name = "cboUDA";
@@ -617,6 +647,7 @@ namespace ESRB_category_form
             // 
             // cboViolence
             // 
+            this.cboViolence.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cboViolence.FormattingEnabled = true;
             this.cboViolence.Location = new System.Drawing.Point(736, 428);
             this.cboViolence.Name = "cboViolence";
