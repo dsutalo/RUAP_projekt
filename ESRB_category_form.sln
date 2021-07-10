@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESRB_category_form", "ESRB_category_form\ESRB_category_form.csproj", "{BA628D73-BBA6-4007-9B35-3DEBA8C3C758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA628D73-BBA6-4007-9B35-3DEBA8C3C758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA628D73-BBA6-4007-9B35-3DEBA8C3C758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA628D73-BBA6-4007-9B35-3DEBA8C3C758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA628D73-BBA6-4007-9B35-3DEBA8C3C758}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBDF5898-E59E-4890-92A7-7003E8F111AA}
+	EndGlobalSection
+EndGlobal
